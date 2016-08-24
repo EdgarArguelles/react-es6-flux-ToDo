@@ -1,6 +1,6 @@
 # ES6 Adaptation for flux-todomvc tutorial 
 
-You can find the original project [here](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)
+You can find the original project [here](https://github.com/facebook/flux/tree/master/examples/flux-todomvc/)<br>
 This project was created using [this starter kit project](https://github.com/EdgarArguelles/react-es6-browserify) (only replacing karma/Jasmine for Jest)
 
 # Stack:
