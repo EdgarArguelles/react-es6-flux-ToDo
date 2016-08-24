@@ -1,0 +1,48 @@
+{
+  "name": "react-es6-flux-ToDo",
+  "version": "1.0.0",
+  "description": "ToDo list using React/Flux on ES6",
+  "scripts": {
+    "start": "gulp",
+    "test": "gulp test"
+  },
+  "author": "Edgar Arguelles",
+  "license": "ISC",
+  "keywords": [
+    "react",
+    "ECMAScript 6",
+    "Flux",
+    "browserify",
+    "babel",
+    "eslint",
+    "jest",
+    "sass",
+    "gulp"
+  ],
+  "devDependencies": {
+    "babel-preset-es2015": "^6.13.2",
+    "babel-preset-react": "^6.11.1",
+    "babelify": "^7.3.0",
+    "browserify": "^13.1.0",
+    "eslint-plugin-react": "^6.1.1",
+    "gulp": "^3.9.1",
+    "gulp-connect": "^5.0.0",
+    "gulp-eslint": "^3.0.1",
+    "gulp-if": "^2.0.1",
+    "gulp-open": "^2.0.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sass-glob-import": "^0.1.0",
+    "gulp-uglify": "^2.0.0",
+    "jest-cli": "^14.1.0",
+    "run-sequence": "^1.2.2",
+    "vinyl-buffer": "^1.0.0",
+    "vinyl-source-stream": "^1.1.0",
+    "yargs": "^5.0.0"
+  },
+  "dependencies": {
+    "flux": "^2.1.1",
+    "keymirror": "^0.1.1",
+    "react": "^15.3.0",
+    "react-dom": "^15.3.0"
+  }
+}
