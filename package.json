@@ -20,29 +20,29 @@
     "gulp"
   ],
   "devDependencies": {
-    "babel-preset-es2015": "^6.13.2",
-    "babel-preset-react": "^6.11.1",
-    "babelify": "^7.3.0",
-    "browserify": "^13.1.0",
-    "eslint-plugin-react": "^6.1.1",
-    "gulp": "^3.9.1",
-    "gulp-connect": "^5.0.0",
-    "gulp-eslint": "^3.0.1",
-    "gulp-if": "^2.0.1",
-    "gulp-open": "^2.0.0",
-    "gulp-sass": "^2.3.2",
-    "gulp-sass-glob-import": "^0.1.0",
-    "gulp-uglify": "^2.0.0",
-    "jest-cli": "^14.1.0",
-    "run-sequence": "^1.2.2",
-    "vinyl-buffer": "^1.0.0",
-    "vinyl-source-stream": "^1.1.0",
-    "yargs": "^5.0.0"
+    "babel-preset-es2015": "6.24.0",
+    "babel-preset-react": "6.23.0",
+    "babelify": "7.3.0",
+    "browserify": "14.1.0",
+    "eslint-plugin-react": "6.10.0",
+    "gulp": "3.9.1",
+    "gulp-connect": "5.0.0",
+    "gulp-eslint": "3.0.1",
+    "gulp-if": "2.0.2",
+    "gulp-open": "2.0.0",
+    "gulp-sass": "3.1.0",
+    "gulp-sass-glob-import": "0.1.0",
+    "gulp-uglify": "2.1.0",
+    "jest-cli": "14.1.0",
+    "run-sequence": "1.2.2",
+    "vinyl-buffer": "1.0.0",
+    "vinyl-source-stream": "1.1.0",
+    "yargs": "7.0.2"
   },
   "dependencies": {
-    "flux": "^2.1.1",
-    "keymirror": "^0.1.1",
-    "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "flux": "3.1.2",
+    "keymirror": "0.1.1",
+    "react": "15.4.2",
+    "react-dom": "15.4.2"
   }
 }
